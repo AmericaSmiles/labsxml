@@ -1,0 +1,16 @@
+<xml>
+	<labs>
+		<lab id="0001">
+			<labName>Acme Labs</labName>
+			<address>Giada De Laurentiis</address>
+			<logo>https://youramslab.com/lab/wp-content/uploads/2023/11/NEW-Logo-Download-Recolor-Resize-11-07-2023.png</logo>
+		</lab>
+		
+		<lab id="0002"> 
+			<labName>Progressive Labs</labName>
+			<address>Giada De Laurentiis</address>
+			<logo>https://youramslab.com/lab/wp-content/uploads/2023/11/NEW-Logo-Download-Recolor-Resize-11-07-2023.png</logo>
+		</lab>
+		
+	</labs>
+</xml>
